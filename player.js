@@ -166,7 +166,6 @@ window.addEventListener("load", function () {
         context.lineTo(dimButton * 25 + 90 * video.volume, canvas.height - dimButton * 1.4);
         context.stroke();
         context.lineWidth = 1;
-
     }
 
     function timeButton() {
