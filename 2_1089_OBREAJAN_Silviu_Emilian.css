@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(90deg, rgba(70,127,219,1) 28%, rgba(13,81,159,1) 54%, rgba(31,59,147,1) 68%, rgba(10,34,107,1) 95%, rgba(12,34,99,1) 100%);
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    margin-left: 23px;
+}
+
+#videoList {
+    padding: 0px;
+    margin-right: 77px;
+}
+
+canvas {
+    float: left;
+    border-radius: 5px;
+    margin-top: 24px;
+    margin-left: 20px;
+}
+
+ul {
+    list-style-type: none;
+    overflow-y: scroll;
+    float: right;
+    height: 600px;
+    width: 430px;
+    border: 2px solid white;
+    border-left-width: 2px;
+    border-right-width: 2px;
+}
+
+ul li img {
+    margin-left: 23px;
+    margin-bottom: 15px;
+}
+
+ul p {
+    text-align: center;
+}
+
+#btnAutoplay {
+    margin-left: -717px;
+}
+
+#cadruVideo button {
+    cursor: pointer;
+    font-weight: bold;
+}
