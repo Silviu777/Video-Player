@@ -1,5 +1,3 @@
-// Proiect Player Video
-
 window.addEventListener("load", function () {
     let progressBarH = 5;
     let progressBarW;
@@ -331,5 +329,3 @@ window.addEventListener("load", function () {
         }
     });
 });
-
-// document.addEventListener("DOMContentLoaded", createPlayer);
