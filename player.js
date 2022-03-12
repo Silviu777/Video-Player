@@ -1,7 +1,7 @@
 window.addEventListener("load", function () {
     let progressBarH = 5;
     let progressBarW;
-    let dimButton = 10; // dimensiune butoane video
+    let dimButton = 10;
     var idVideo;
     var autoplay = false;
     let volume = 1;
